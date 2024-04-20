@@ -1,4 +1,4 @@
-# Data-Science-self-learn-
+# Data Science self learn
 
 
 # Welcome to Our Data Science Learning Hub! 🚀
